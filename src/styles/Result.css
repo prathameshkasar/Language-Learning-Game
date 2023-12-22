@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root {
+  --primary-color: #27ae60; /* Change to your desired primary color */
+  --dark-color: #2c3e50; /* Change to your desired dark color */
+  --light-color: #ecf0f1; /* Change to your desired light color */
+}
+
+body, html {
+  height: 100%;
+  background: var(--dark-color);
+}
+
+* > * {
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  display: block;
+  position: relative;
+  margin: 40px auto;
+  height: auto;
+  width: 800px;
+  padding: 20px;
+}
+
+.container .title {
+  font-size: 3em;
+  text-align: center;
+  border: 5px solid var(--primary-color);
+  padding: .3em .2em;
+  border-radius: 4px;
+}
+
+.text-light {
+  color: var(--light-color);
+}
+
+.container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+.container .questions {
+  padding: 3em;
+}
+
+.container .grid {
+  margin-top: 3em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.container .btn {
+  padding: .2em 1.7em;
+  border: none;
+  border-radius: .1em;
+  font-size: 1.2em;
+}
+
+.container .btn:hover {
+  cursor: pointer;
+  background-color: #f0f0f0;
+  color: #202020;
+}
+
+.next {
+  background-color: var(--primary-color);
+  justify-self: flex-end;
+}
+
+.prev {
+  background-color: #faff5a;
+  justify-self: flex-start;
+}
+
+ul li {
+  color: #AAAAAA;
+  display: block;
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 100px;
+  border-bottom: 1px solid #333;
+}
+
+/* ... Rest of your CSS rules with color references ... */

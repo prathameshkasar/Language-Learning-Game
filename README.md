@@ -1,26 +1,70 @@
-# Language-Learning-Game
-Getting Started with Language Learning Game developed by using web development technologies such as html,css and javascript.
+# Getting Started with Create React App
 
-Developed an interactive language proficiency enhancement application that guides users through engaging exercises and activities. The project incorporates frontend user interface elements.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
 In the project directory, you can run:
 
-##npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+### `npm start`
 
-The page will reload when you make changes.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-#Features
+### `npm test`
 
-1).Language learning quiz.
-2).Dynamic question rendering.
-3).Result analysis and scoring.
-4).Restart functionality.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-#Screenshots
-![Screenshot (192)](https://github.com/prathameshkasar/Language-Learning-Game/assets/94557525/b56c0a99-55c9-4a60-9d80-d23aae95e59a)
-![Screenshot (193)](https://github.com/prathameshkasar/Language-Learning-Game/assets/94557525/c9de1d04-b1eb-4785-97e1-a13277cb1cc0)
-![Screenshot (194)](https://github.com/prathameshkasar/Language-Learning-Game/assets/94557525/ab1878f9-c054-4d28-80c9-81b8bcd11ef4)
-![Screenshot (195)](https://github.com/prathameshkasar/Language-Learning-Game/assets/94557525/401d5696-2073-455c-9ed3-1e88c244926a)
-![Screenshot (196)](https://github.com/prathameshkasar/Language-Learning-Game/assets/94557525/daa5df97-b883-4a64-9620-aaf0401b6f95)
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

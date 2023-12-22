@@ -1,0 +1,35 @@
+.container ol li {
+    font-size: 1.4em;
+    color: #8cb3d9; /* Change to your desired color */
+}
+
+.start {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.start .btn {
+    padding: .2em 1.7em;
+    border: none;
+    border-radius: .1em;
+    font-size: 1.2em;
+    color: #ffffff; /* Change to your desired color */
+    text-decoration: none;
+    background-color: #3498db; /* Change to your desired color */
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+}
+
+#form .userid {
+    padding: .7em 2em;
+    width: 50%;
+    border: none;
+    border-radius: 3px;
+    font-size: 1em;
+    color: #333333; /* Change to your desired color */
+}
