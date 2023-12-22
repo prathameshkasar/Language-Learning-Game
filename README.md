@@ -11,9 +11,10 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 #Features
-Language learning quiz.
-Dynamic question rendering.
-Result analysis and scoring.
-Restart functionality.
+
+1).Language learning quiz.
+2).Dynamic question rendering.
+3).Result analysis and scoring.
+4).Restart functionality.
 
 #Screenshots
