@@ -1,6 +1,7 @@
 # Language-Learning-Game
 Getting Started with Language Learning Game developed by using web development technologies such as html,css and javascript.
 
+Developed an interactive language proficiency enhancement application that guides users through engaging exercises and activities. The project incorporates frontend user interface elements.
 In the project directory, you can run:
 
 ##npm start
